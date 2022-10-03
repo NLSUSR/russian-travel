@@ -9,7 +9,7 @@
   background-size: cover;
   max-width: 100%;
   min-height: 740px; 
- 
+  transition: opacity .5s ease;
   text-decoration: none;
 }
 .cover__overlay:hover::before {
